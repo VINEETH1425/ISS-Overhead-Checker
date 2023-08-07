@@ -1,2 +1,2 @@
-City,Latitude,Longitude
-Tirupati,13.628756,79.419182 
+City,Latitude_Min,Latitude_Max,Longitude_Min,Longitude_Max
+Tirupati,13.5,13.8,79.2,79.6
