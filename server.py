@@ -11,6 +11,6 @@
 #TODO - 5: Convert the data receive into json format use. To store data in json in another varible use syntax: 
 # <var name> = <data requested variable name>.json()
 
-#TODO - 6 Access and store the city's data and store it in the variable using opnen and with (explore yourself, use stackoverflow)
+#TODO - 6 Access and store the city's data and store it in the variable using opnen and with (explore yourself, use stackoverflow), you can also try using pandas.
 
 #TODO - 7: Compare the latitude and longitude of ISS and City's one if it's n range, print its overhead, otherwise print it's current latitude and longitude
