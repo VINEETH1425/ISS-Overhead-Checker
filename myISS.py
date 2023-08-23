@@ -21,4 +21,4 @@ while True:
         print("It is not in the range")
         print(f"ISS Latitude: {iss_latitude}, ISS Longitude: {iss_longitude}")
         # here u have write f otherwise it will be included
-        time.sleep(10)  # Check every 10 seconds
+        time.sleep(10)  # Check every 10 second
