@@ -1,3 +1,4 @@
+import request
 #TODO - 1 : explore requests, datetime,time modules in python and import it in this project
 
 #TODO - 2 : Look into data.csv file, it contains data about Tirupati location, we will modify it once we complete first phase of this project
